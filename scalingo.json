@@ -3,7 +3,7 @@
   "stack": "scalingo-18",
   "description": "nodejs-v1.0",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/seav1/scalingo",
+  "repository": "https://github.com/xoemy/sco",
   "website": "https://scalingo.com",
   "env": {
     "AGO_AUTH": {
